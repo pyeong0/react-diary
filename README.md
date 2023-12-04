@@ -1,2 +1,2 @@
 # react-diary
-react로 만든 감정 일기장
+react로 만든 일기장
